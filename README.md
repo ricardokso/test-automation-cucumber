@@ -1,4 +1,4 @@
-# pratical-test-qa - Ricardo Kriegler de Souza - 19/05/2015
+# Ricardo Kriegler de Souza - 31/07/2015
 
 Projeto de Automação de Testes
 
